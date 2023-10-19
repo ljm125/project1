@@ -49,11 +49,13 @@ body{
 .grey{
     background-color: grey;
     color: rgba(9, 136, 9, 0.788);
+    
 }
 
 .red{
     background-color: grey;
     color: rgba(192, 42, 4, 0.904);
+    font-weight:200;
 }
 
 .orange{
