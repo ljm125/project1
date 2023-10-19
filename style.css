@@ -52,12 +52,12 @@ body{
     color: rgba(9, 136, 9, 0.788);
 }
 
-.grey red{
+.red{
     background-color: grey;
     color: rgba(192, 42, 4, 0.904);
 }
 
-.yellow{
+.orange{
     background-color: orange;
     color: rgba(9, 136, 9, 0.788);
 }
