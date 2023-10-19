@@ -5,8 +5,9 @@
 }
 
 body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
-    height: 100hz;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,10 +48,15 @@ body{
 
 .grey{
     background-color: grey;
-    color: gold;
+    color: rgba(8, 80, 8, 0.788);
 }
 
-.green{
-    background-color: green;
-    color: gold;
+.red{
+    background-color: grey;
+    color: red;
+}
+
+.yellow{
+    background-color: yellow;
+    color: rgba(8, 80, 8, 0.788);
 }
