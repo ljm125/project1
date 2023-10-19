@@ -27,6 +27,7 @@ body{
     justify-content: flex-end;
     align-items: flex-end;
     font-size: 200%;
+    font-weight: 200;
     margin-bottom: 15px;
 }
 
@@ -55,7 +56,6 @@ body{
 .red{
     background-color: grey;
     color: rgba(192, 42, 4, 0.904);
-    font-weight:200;
 }
 
 .orange{
